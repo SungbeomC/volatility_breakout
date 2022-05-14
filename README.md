@@ -1,4 +1,4 @@
-# volatility_breakout_strategy
+# Volatility Breakout Strategy
 
 Based on the data of two U.S firm stocks (Amazon and Apple) for the past 10 years, codes in this repository execute backtesting that incorporates both the volatility breakout strategy and the same investment strategy taking into account the moving average (MA), and they present the rate of returns, the cumulative returns, and drawdowns according to these two different strategies. They also convert these numerical results into both csv and excel files, and they visualize the cumulative returns and drawdowns by using graphs. Lastly, the best_k_value.py file contains codes to determine the k value (ranging from 0.0 to 1.0) that results in the highest cumulative return.
 
